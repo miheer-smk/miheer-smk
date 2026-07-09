@@ -51,8 +51,11 @@ I'm an AI/Computer Vision researcher at **IIIT Nagpur**, working at the intersec
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miheer-smk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=nord" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miheer-smk&layout=compact&hide_border=true&langs_count=8&theme=nord" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miheer-smk&theme=nord_bright" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miheer-smk&theme=nord_bright" alt="Top languages by repo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miheer-smk&theme=nord_bright" alt="Most-committed languages" />
 </p>
 
 ---
@@ -60,6 +63,7 @@ I'm an AI/Computer Vision researcher at **IIIT Nagpur**, working at the intersec
 ### Connect
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/miheers-kulkarni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:miheer.smk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/miheer-smk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
